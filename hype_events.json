@@ -1,0 +1,91 @@
+[  
+    {
+        "id": "1",
+        "date": "2022-07-29",
+        "title": "Kevin Hart: Reality Check",
+        "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
+        "color": "#FF6347",
+        "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
+    },
+
+    {
+        "id": "2",
+        "date": "2022-11-18",
+        "title": "Luke Combs: Canadian Tour",
+        "url": "https://evenko.ca/en/events/40790/luke-combs/bell-centre/11-18-2022",
+        "color": "#FF0000",
+        "imageURL": "https://sorstu.ca/wp-content/uploads/2021/09/new/lukecomb-event_662x0.jpg"
+    },
+
+    {
+        "id": "3",
+        "date": "2023-02-03",
+        "title": "NHL All-Star",
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-south-florida-to-host-2023-honda-nhl-all-star-weekend/c-330516996",
+        "color": "#00FF00",
+        "imageURL": "https://cms.nhl.bamgrid.com/images/photos/330516852/1024x576/cut.jpg"
+    },
+
+    {
+        "id": "4",
+        "date": "2023-01-21",
+        "title": "Canadiens VS Maple Leafs",
+        "url": "https://www.ticketmaster.ca/montreal-canadiens-vs-toronto-maple-leafs-montreal-quebec-01-21-2023/event/31005D033F495399",
+        "color": "#FF6347",
+        "imageURL": "https://i.cbc.ca/1.5082844.1554306560!/fileImage/httpImage/hnic-toronto-maple-leafs-at-montreal-canadiens.jpg"
+    },
+
+    {
+        "id": "5",
+        "date": "2022-12-23",
+        "title": "Raptors VS Cavaliers",
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1Ad4sqA?tmrid=TMR-3571745&routing=y&_ga=2.260235917.1661620178.1666748848-1646473916.1666748848",
+        "color": "#FF00FB",
+        "imageURL": "https://e7n9s5t9.stackpathcdn.com/articles/wp-content/uploads/2018/12/raptors-vs-cavaliers.jpg"
+    },
+
+    {
+        "id": "6",
+        "date": "2022-11-23",
+        "title": "World Cup: Canada VS Belgium",
+        "url": "https://www.tsn.ca/fifa-world-cup/canada-vs-belgium",
+        "color": "#FFF000",
+        "imageURL": "https://www.betiton.com/wp-content/uploads/2022/09/Belgium-vs-Canada-1.jpg"
+    },
+
+    {
+        "id": "7",
+        "date": "2022-12-16",
+        "title": "Avatar: The Way of Water",
+        "url": "https://www.cineplex.com/movie/avatar-the-way-of-water?ic=cpx_hp-moviegrid-en",
+        "color": "#00FFB2",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+    },
+
+    {
+        "id": "8",
+        "date": "2022-11-20",
+        "title": "Abu Dhabi Grand Prix",
+        "url": "https://www.formula1.com/en/racing/2022/United_Arab_Emirates.html",
+        "color": "#BABABA",
+        "imageURL": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Abu%20Dhabi.jpg.transform/fullbleed/image.jpg"
+    },
+
+    {
+        "id": "9",
+        "date": "2022-12-16",
+        "title": "Lil Tjay Laval",
+        "url": "https://www.evenko.ca/en/events/50184/lil-tjay/place-bell/12-16-2022",
+        "color": "#2700FF",
+        "imageURL": "https://hollywoodlife.com/wp-content/uploads/2022/06/Lil-Tjay-ss-05.jpg"
+    },
+
+    {
+        "id": "10",
+        "date": "2023-04-28",
+        "title": "Stagecoach",
+        "url": "https://www.stagecoachfestival.com/",
+        "color": "#FF7400",
+        "imageURL": "https://aegwebprod.blob.core.windows.net/content/content_images/298/GC29tyFUI337sMJvzgc8WydfTiJDvbptPqtRNqnb.jpg"
+    }
+]
